@@ -1,0 +1,3 @@
+echo "Hello I am Husna"
+"Hello I am Husna"
+
